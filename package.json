@@ -1,0 +1,22 @@
+{
+  "name": "interactive-character-sheet",
+  "version": "1.0.0",
+  "description": "interactive character sheet for D&D 5E.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevincfisher/interactive-character-sheet.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Kevin Fisher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevincfisher/interactive-character-sheet/issues"
+  },
+  "homepage": "https://github.com/kevincfisher/interactive-character-sheet#readme"
+}
